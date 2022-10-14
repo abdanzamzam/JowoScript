@@ -1,2 +1,2 @@
-# MosaScript
-MosaScript is just for fun
+# JowoScript
+JowoScript is just for fun
